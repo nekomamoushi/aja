@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_5 TILs..._
+_18 TILs..._
 
 ---
 
@@ -35,6 +35,7 @@ _5 TILs..._
 
 - [HTML Dialog functionality](html/dialog-functionality.md)
 - [Mouse Event button property](html/mouse-event-button-property.md)
+- [Disable HTML form validation](html/disable-html-form-validation-with-novalidate.md)
 
 ## Javascript
 
@@ -50,6 +51,10 @@ _5 TILs..._
 ## Markdown
 
 - [Alert Style like Github](markdown/alert-style-content-block.md)
+
+## Misc
+
+- [Disable google signup popup](misc/disable-google-signin-popup.md)
 
 ## Node
 
