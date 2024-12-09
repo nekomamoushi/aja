@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_18 TILs..._
+_19 TILs..._
 
 ---
 
@@ -30,6 +30,7 @@ _18 TILs..._
 ## Git
 
 - [Stash unstracked files](git/stash-untracked-files.md)
+- [No diff for lock files](git/git-no-diff-for-lock-files.md)
 
 ## HTML
 
