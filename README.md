@@ -71,3 +71,4 @@ _19 TILs..._
 ## Typescript
 
 - [Exhaustive Check with never](typescript/exhaustiveness-checking-with-never.md)
+- [How to strrongly type `process.env`](typescript/strongly-type-process-env.md)
