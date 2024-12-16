@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_19 TILs..._
+_20 TILs..._
 
 ---
 
@@ -26,6 +26,7 @@ _19 TILs..._
 ## Angular
 
 - [Overriding angular schematics](angular/override-schematics.md)
+- [Indentation for the new control flow with Prettier](angular/indentation-control-flow-with-prettier.md)
 
 ## Git
 
