@@ -20,6 +20,7 @@ _20 TILs..._
 - [Node](#node)
 - [RxJs](#rxjs)
 - [Typescript](#typescript)
+- [VSCode](#vscode)
 
 ---
 
@@ -73,3 +74,7 @@ _20 TILs..._
 
 - [Exhaustive Check with never](typescript/exhaustiveness-checking-with-never.md)
 - [How to strrongly type `process.env`](typescript/strongly-type-process-env.md)
+
+## VSCode
+
+- [JSON with comments](vscode/json-with-comments.md)
