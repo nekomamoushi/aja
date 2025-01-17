@@ -28,6 +28,7 @@ _20 TILs..._
 
 - [Overriding angular schematics](angular/override-schematics.md)
 - [Indentation for the new control flow with Prettier](angular/indentation-control-flow-with-prettier.md)
+- [Send http headers via http client](angular/send-http-headers-via-http-client.md)
 
 ## Git
 
