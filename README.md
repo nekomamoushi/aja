@@ -34,6 +34,7 @@ _20 TILs..._
 
 - [Stash unstracked files](git/stash-untracked-files.md)
 - [No diff for lock files](git/git-no-diff-for-lock-files.md)
+- [Binding data attributes](angular/binding-data-attributes.md)
 
 ## HTML
 
