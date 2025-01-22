@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_20 TILs..._
+_25 TILs..._
 
 ---
 
@@ -76,6 +76,7 @@ _20 TILs..._
 
 - [Exhaustive Check with never](typescript/exhaustiveness-checking-with-never.md)
 - [How to strrongly type `process.env`](typescript/strongly-type-process-env.md)
+- [Compiler target option overview](typescript/compiler-target-options-overview.md)
 
 ## VSCode
 
