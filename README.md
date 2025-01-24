@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_25 TILs..._
+_26 TILs..._
 
 ---
 
@@ -46,6 +46,7 @@ _25 TILs..._
 
 - [Difference between isNan() and Number.isNan()](javascript/difference-between-is-nan-and-number-is-nan.md)
 - [Reduce initial value](javascript/reduce-initial-value.md)
+- [JSON stringify inconstency](javascript/json-stringify-inconsistency.md)
 
 ## Macos
 
