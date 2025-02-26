@@ -30,6 +30,7 @@ _27 TILs..._
 - [Indentation for the new control flow with Prettier](angular/indentation-control-flow-with-prettier.md)
 - [Send http headers via http client](angular/send-http-headers-via-http-client.md)
 - [Binding `data-*` attributes](angular/binding-data-attributes.md)
+- [Using `model` input adds implicit `change` event](angular/using-model-input-add-implicit-change-event.md)
 
 ## Git
 
