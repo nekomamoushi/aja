@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_26 TILs..._
+_27 TILs..._
 
 ---
 
@@ -29,6 +29,7 @@ _26 TILs..._
 - [Overriding angular schematics](angular/override-schematics.md)
 - [Indentation for the new control flow with Prettier](angular/indentation-control-flow-with-prettier.md)
 - [Send http headers via http client](angular/send-http-headers-via-http-client.md)
+- [Binding `data-*` attributes](angular/binding-data-attributes.md)
 
 ## Git
 
